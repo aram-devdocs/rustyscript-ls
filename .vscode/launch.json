@@ -1,0 +1,11 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Run LSP Server",
+      "type": "lldb",
+      "request": "launch",
+      "program": "${workspaceFolder}/target/release/rustyscript-ls"
+    }
+  ]
+}

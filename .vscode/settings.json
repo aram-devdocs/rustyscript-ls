@@ -1,0 +1,4 @@
+{
+  "typescript.tsserver.path": "./target/release/rustyscript-ls",
+  "editor.languageServerControl": "rustyscript-ls"
+}
